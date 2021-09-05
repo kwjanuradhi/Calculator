@@ -1,5 +1,18 @@
-PROJECT TITLE:CALCULATOR GUI PROJECT
-PURPOSE OF PROJECT:GUI FOR CALCULATOR PROGRM
-VERSION or DATE: V_01 04TH SEPT 2021
-HOW TO START THIS PROJECT:RUN THE BLUEJ PROJECT
-AUTHORS:ANURADHI JAYASEKARA
+# Calculator
+
+Performs the basic arithmatic operations of calculator
+
+## Description
+
+GUI for the calculator program
+
+## Getting Started
+
+### Dependencies
+
+* BlueJ version 5.0.1 
+* Java version 11.0.10
+
+## Author
+
+[@kwjanuradhi](https://github.com/kwjanuradhi)
