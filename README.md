@@ -4,7 +4,7 @@ Performs the basic arithmatic operations of calculator
 
 ## Description
 
-GUI for the calculator program
+GUI for the calculator program to show the user expressions
 
 ## Getting Started
 
